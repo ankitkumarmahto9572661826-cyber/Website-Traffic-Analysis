@@ -56,10 +56,10 @@ The analysis helps identify:
 
 ## 📁 Project Files
 
-- Alfido_Sales_Performance` – Analysis/project file
-- Sales Performance Analysis (Report)` – Detailed project report
-- Sales Performance Dashboard` – Dashboard file
-- Sales Performance Dashboard (Screenshot)` – Dashboard preview
+- Alfido_Sales_Performance – Analysis/project file
+- Sales Performance Analysis (Report) – Detailed project report
+- Sales Performance Dashboard – Dashboard file
+- Sales Performance Dashboard (Screenshot) – Dashboard preview
 
 ## 📁 Large Dataset Files
 
